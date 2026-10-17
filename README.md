@@ -9,6 +9,10 @@ An end-to-end portfolio project that uses **MySQL** to store and analyse student
 
 ![Training & Placement Performance Dashboard]([screenshots/dashboard-overview.png](https://github.com/satendrakumar01/Training-Placement-Analytics-SQL-PowerBI/blob/main/TRAINING%20%26%20PLACEMENT%20PERFORMANCE%20DASHBOARD.png))
 
+
+<img width="836" height="688" alt="image" src="https://github.com/user-attachments/assets/74c76fce-60ee-498d-8236-ec842065ef20" />
+
+
 ## Business Objective
 
 Build an interactive view of student admissions, training participation, assessment performance, course completion, placement outcomes, and placement salaries. The report is designed to help a viewer compare outcomes by trade, district, trainer, batch, gender, and placement status.
