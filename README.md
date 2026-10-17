@@ -7,7 +7,7 @@ An end-to-end portfolio project that uses **MySQL** to store and analyse student
 
 ## Dashboard Preview
 
-![Training & Placement Performance Dashboard](screenshots/dashboard-overview.png)
+![Training & Placement Performance Dashboard]([screenshots/dashboard-overview.png](https://github.com/satendrakumar01/Training-Placement-Analytics-SQL-PowerBI/blob/main/TRAINING%20%26%20PLACEMENT%20PERFORMANCE%20DASHBOARD.png))
 
 ## Business Objective
 
